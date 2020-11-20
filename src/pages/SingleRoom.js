@@ -58,7 +58,7 @@ export default class SingleRoom extends Component {
                             <h3>info</h3>
                             <h6>price : ${price}</h6>
                             <h6>{twoDayDelivery?"Two-Day Delivery":""}</h6>
-                            <p>To Start Today, Email: <strong>pbuzzo04@gmail.com</strong></p>
+                            <p>To Start Today, Email: <strong>audioace@protonmail.com</strong></p>
                         </article>
 
                     </div>
